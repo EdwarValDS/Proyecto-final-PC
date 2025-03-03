@@ -4,3 +4,4 @@ Proyecto destinado a la simulación de un parqués en python para la materia pro
 ## Instrucciones: 
 
 Ejecutar el código en un entorno de programación para Python. Seguir lo indicado por la consola para jugar.
+El movimiento de las fichas aparecerá en la matriz para el respectivo jugador
